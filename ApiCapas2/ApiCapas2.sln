@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCapas2", "ApiCapas2\ApiCapas2.csproj", "{A1E3DFA8-A70F-4769-AE1C-02ACC0C7349A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{BDF36303-9999-4DD8-BD8F-305ED7A386C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{5AD18D3E-D92A-4CAD-8A55-BD943432C5B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E3DFA8-A70F-4769-AE1C-02ACC0C7349A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E3DFA8-A70F-4769-AE1C-02ACC0C7349A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E3DFA8-A70F-4769-AE1C-02ACC0C7349A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E3DFA8-A70F-4769-AE1C-02ACC0C7349A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF36303-9999-4DD8-BD8F-305ED7A386C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF36303-9999-4DD8-BD8F-305ED7A386C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF36303-9999-4DD8-BD8F-305ED7A386C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF36303-9999-4DD8-BD8F-305ED7A386C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD18D3E-D92A-4CAD-8A55-BD943432C5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD18D3E-D92A-4CAD-8A55-BD943432C5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD18D3E-D92A-4CAD-8A55-BD943432C5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD18D3E-D92A-4CAD-8A55-BD943432C5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC4CC12A-DEFD-488A-A3C6-5D3B8A6DB4CB}
+	EndGlobalSection
+EndGlobal
